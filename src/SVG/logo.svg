@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="90" height="90">
+  <!-- Outer Blue Circle -->
+  <circle cx="50" cy="50" r="45" fill="none" stroke="#0052CC" stroke-width="10" stroke-dasharray="35 10" />
+
+  <!-- Middle Red Circle -->
+  <circle cx="50" cy="50" r="32.5" fill="none" stroke="#D62828" stroke-width="10" stroke-dasharray="25 7.5" />
+
+  <!-- Inner Yellow Circle -->
+  <circle cx="50" cy="50" r="20" fill="none" stroke="#FDCB0A" stroke-width="10" stroke-dasharray="17.5 7.5" />
+
+  <!-- Center White Circle -->
+  <circle cx="50" cy="50" r="12.5" fill="#ffffff" />
+
+  <!-- Text in the Center -->
+  <text x="50" y="53" font-family="Arial, sans-serif" font-size="6" text-anchor="middle" fill="#D62828" font-weight="bold">IBDIC</text>
+</svg>
